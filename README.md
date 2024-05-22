@@ -9,7 +9,7 @@
 
 # 2.Article-React
   - Lakukan Clone terhadap branch ini
-  - lakukan instalasi pada terminal npm install
-  - Jalankan dengan npm start
+  - lakukan instalasi pada terminal dengan npm install
+  - Untuk menjalan project, buka terminal dan jalankan dengan npm start
 
 
