@@ -13,7 +13,7 @@
   - Untuk menjalan project, buka terminal dan jalankan dengan npm start
 
 
-# BACKEND
+# BE
 # 1.Get All
 ![getall](https://github.com/geedotrar/React-Go-Article/assets/104245694/c291c27f-6184-4cd5-8be7-556a18837dc1)
 # 2.Get BY ID 
@@ -24,3 +24,16 @@
 ![update](https://github.com/geedotrar/React-Go-Article/assets/104245694/e99e3007-60b0-4cc0-93c7-e68d16248108)
 # 5.Delete
 ![del](https://github.com/geedotrar/React-Go-Article/assets/104245694/7ebe32d6-26c2-4ad1-ad4c-08a2e2f40875)
+
+# FE
+# 1.Publish
+![publish](https://github.com/geedotrar/React-Go-Article/assets/104245694/79fcee2b-e506-4a8f-91d0-5ace4fb59098)
+# 2.Draft
+![DRAFT](https://github.com/geedotrar/React-Go-Article/assets/104245694/21f5e88f-44ec-4bb2-83bb-7116ad666722)
+# 3.Thrash
+![thrash](https://github.com/geedotrar/React-Go-Article/assets/104245694/9290dafb-c7a1-4a97-b602-7e05a3905f40)
+# 3.Edit
+![edit](https://github.com/geedotrar/React-Go-Article/assets/104245694/3b5f608e-56b4-4950-be12-080b91c5d93d)
+# 3.Create
+![add](https://github.com/geedotrar/React-Go-Article/assets/104245694/85840814-9b16-4b2c-9959-23a1a29f0343)
+
