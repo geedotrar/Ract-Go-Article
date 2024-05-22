@@ -4,7 +4,7 @@
   - Lakukan Clone terhadap branch ini
   - Buat database baru bernama article
   - lalu jalankan sql yang ada pada db/migrations/001_migrate_table.sql di mysql
-  - Terdapat file config untuk configurasi dengan mysql(sesuaikan dengan username/password
+  - Terdapat file config untuk configurasi dengan mysql(sesuaikan dengan username/password mysql yang ada pada device)
   - Untuk menjalankan project, pindah ke package cmd/main lalu jalankan go run main.go
 
 # 2.Article-React
@@ -13,7 +13,7 @@
   - Untuk menjalan project, buka terminal dan jalankan dengan npm start
 
 
-# BE
+# BACKEND
 # 1.Get All
 ![getall](https://github.com/geedotrar/React-Go-Article/assets/104245694/c291c27f-6184-4cd5-8be7-556a18837dc1)
 # 2.Get BY ID 
@@ -25,7 +25,7 @@
 # 5.Delete
 ![del](https://github.com/geedotrar/React-Go-Article/assets/104245694/7ebe32d6-26c2-4ad1-ad4c-08a2e2f40875)
 
-# FE
+# FRONTEND
 # 1.Publish
 ![publish](https://github.com/geedotrar/React-Go-Article/assets/104245694/79fcee2b-e506-4a8f-91d0-5ace4fb59098)
 # 2.Draft
