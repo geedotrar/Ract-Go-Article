@@ -32,8 +32,8 @@
 ![DRAFT](https://github.com/geedotrar/React-Go-Article/assets/104245694/21f5e88f-44ec-4bb2-83bb-7116ad666722)
 # 3.Thrash
 ![thrash](https://github.com/geedotrar/React-Go-Article/assets/104245694/9290dafb-c7a1-4a97-b602-7e05a3905f40)
-# 3.Edit
+# 4.Edit
 ![edit](https://github.com/geedotrar/React-Go-Article/assets/104245694/3b5f608e-56b4-4950-be12-080b91c5d93d)
-# 3.Create
+# 5.Create
 ![add](https://github.com/geedotrar/React-Go-Article/assets/104245694/85840814-9b16-4b2c-9959-23a1a29f0343)
 
