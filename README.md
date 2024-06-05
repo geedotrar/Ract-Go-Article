@@ -1,17 +1,16 @@
-# **Project ada pada branch article-api dan article-react**
-# **Cara Menjalankan Project**
+# **Project is on the branches article-api and article-react**
+# **How to Run the Project**
 # 1.Article-api
-  - Lakukan Clone terhadap branch article-api
-  - Buat database baru bernama article
-  - lalu jalankan sql yang ada pada db/migrations/001_migrate_table.sql di mysql
-  - Terdapat file config untuk configurasi dengan mysql(sesuaikan dengan username/password mysql yang ada pada device)
-  - Untuk menjalankan project, pindah ke package cmd/main lalu jalankan go run main.go
+  - Clone the article-api branch
+  - Create a new database named "article"
+  - Execute the SQL script found in db/migrations/001_migrate_table.sql in MySQL
+  - Adjust the configuration file to match your MySQL username/password (config file provided)
+  - To run the project, navigate to the package cmd/main and execute go run main.go
 
 # 2.Article-React
-  - Lakukan Clone terhadap branch article-react
-  - lakukan instalasi pada terminal dengan npm install
-  - Untuk menjalan project, buka terminal dan jalankan dengan npm start
-
+  - Clone the article-react branch
+  - Install the dependencies in the terminal using npm install
+  - To run the project, open a terminal and execute npm start
 
 # BACKEND
 # 1.Get All
